@@ -22,4 +22,5 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      -uses: kishore-km/kishorekmtest12@v1.0.1
+
+      - uses: kishore-km/kishorekmtest12@v1.0.1
